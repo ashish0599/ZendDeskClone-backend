@@ -1,4 +1,4 @@
-### User sing up endpoint
+
 POST http://localhost:3001/v1/user
 Content-Type: application/json
 
